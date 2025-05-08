@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoting=self.webpackChunkvoting||[]).push([[903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/voting/blog","blogTitle":"Blog","authorsListPath":"/voting/blog/authors"}')}}]);

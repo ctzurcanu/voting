@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoting=self.webpackChunkvoting||[]).push([[764],{7983:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/voting/fr/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
