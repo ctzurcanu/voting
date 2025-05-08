@@ -1,0 +1,27 @@
+{
+  "id": "blueprint-docs/create-a-document",
+  "title": "Create a Document",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/blueprint-docs/create-a-document.md",
+  "sourceDirName": "blueprint-docs",
+  "slug": "/blueprint-docs/create-a-document",
+  "permalink": "/voting/docs/blueprint-docs/create-a-document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/voting/tree/main/docs/blueprint-docs/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/voting/docs/blueprint-docs/create-a-page"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/voting/docs/blueprint-docs/markdown-features"
+  }
+}

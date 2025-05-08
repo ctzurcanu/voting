@@ -1,0 +1,27 @@
+{
+  "id": "blueprint-docs/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/blueprint-docs/create-a-blog-post.md",
+  "sourceDirName": "blueprint-docs",
+  "slug": "/blueprint-docs/create-a-blog-post",
+  "permalink": "/voting/docs/blueprint-docs/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/voting/tree/main/docs/blueprint-docs/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/voting/docs/blueprint-docs/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/voting/docs/blueprint-docs/markdown-features"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blueprint-docs/voting-legitimacy",
+  "title": "Voting Legitimacy",
+  "description": "Legit",
+  "source": "@site/docs/blueprint-docs/voting-legitimacy.md",
+  "sourceDirName": "blueprint-docs",
+  "slug": "/blueprint-docs/voting-legitimacy",
+  "permalink": "/voting/fr/docs/blueprint-docs/voting-legitimacy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/voting/tree/main/docs/blueprint-docs/voting-legitimacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Blueprint - Docs",
+    "permalink": "/voting/fr/docs/category/blueprint---docs"
+  }
+}

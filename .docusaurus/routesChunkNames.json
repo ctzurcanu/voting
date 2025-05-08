@@ -1,5 +1,5 @@
 {
-  "/voting/blog-e70": {
+  "/voting/fr/blog-821": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -7,28 +7,28 @@
     "sidebar": "814f3328",
     "items": [
       {
+        "content": "71e92778"
+      },
+      {
+        "content": "b2ba7847"
+      },
+      {
         "content": "7661071f"
       },
       {
         "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
       }
     ],
-    "__props": "7614c78a"
+    "__props": "4aa8e389"
   },
-  "/voting/blog/archive-15a": {
+  "/voting/fr/blog/archive-fb8": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "c58c0dbd"
+    "__props": "c08f83d2"
   },
-  "/voting/blog/authors-74b": {
+  "/voting/fr/blog/authors-415": {
     "__comp": "621db11d",
     "__context": {
       "data": {
@@ -37,9 +37,21 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "23b8af08"
+    "__props": "cf425942"
   },
-  "/voting/blog/authors/all-sebastien-lorber-articles-54d": {
+  "/voting/fr/blog/authors/all-sebastien-lorber-articles-2eb": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [],
+    "sidebar": "814f3328",
+    "__props": "31e42165"
+  },
+  "/voting/fr/blog/authors/ctzurcanu-3b8": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -48,42 +60,23 @@
       "plugin": "36994c47"
     },
     "items": [
+      {
+        "content": "71e92778"
+      },
+      {
+        "content": "b2ba7847"
+      },
       {
         "content": "7661071f"
       },
       {
         "content": "f4f34a3a"
-      },
-      {
-        "content": "925b3f96"
       }
     ],
     "sidebar": "814f3328",
-    "__props": "0d8098f1"
+    "__props": "ce3fb68c"
   },
-  "/voting/blog/authors/yangshun-f58": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
-      }
-    ],
-    "sidebar": "814f3328",
-    "__props": "99e9a3c5"
-  },
-  "/voting/blog/first-blog-post-9a4": {
+  "/voting/fr/blog/first-blog-post-f62": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -92,20 +85,9 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "content": "e273c56f"
+    "content": "64c6a722"
   },
-  "/voting/blog/long-blog-post-0f5": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "73664a40"
-  },
-  "/voting/blog/mdx-blog-post-0b1": {
+  "/voting/fr/blog/mdx-blog-post-aa4": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -116,37 +98,45 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/voting/blog/tags-6c5": {
+  "/voting/fr/blog/second-blog-post-0e9": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "eb234947"
+  },
+  "/voting/fr/blog/tags-02b": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "b5bc94fc"
+    "__props": "daeb11fb"
   },
-  "/voting/blog/tags/docusaurus-0c1": {
+  "/voting/fr/blog/tags/blog-c5b": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
     "items": [
+      {
+        "content": "71e92778"
+      },
       {
         "content": "7661071f"
       },
       {
         "content": "f4f34a3a"
-      },
-      {
-        "content": "8717b14a"
-      },
-      {
-        "content": "925b3f96"
       }
     ],
-    "__props": "c27b72a7"
+    "__props": "22fa4142"
   },
-  "/voting/blog/tags/facebook-05f": {
+  "/voting/fr/blog/tags/general-a11": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -154,28 +144,15 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7661071f"
-      }
-    ],
-    "__props": "ca5b222d"
-  },
-  "/voting/blog/tags/hello-114": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7661071f"
+        "content": "71e92778"
       },
       {
-        "content": "8717b14a"
+        "content": "b2ba7847"
       }
     ],
-    "__props": "0a2a8aa2"
+    "__props": "b40beef6"
   },
-  "/voting/blog/tags/hola-f8e": {
+  "/voting/fr/blog/tags/voting-3b4": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -183,12 +160,12 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "b2ba7847"
       }
     ],
-    "__props": "92cd1193"
+    "__props": "07e80875"
   },
-  "/voting/blog/welcome-088": {
+  "/voting/fr/blog/welcome-a7a": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -199,71 +176,39 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/voting/markdown-page-981": {
+  "/voting/fr/markdown-page-773": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/voting/docs-fe8": {
+  "/voting/fr/docs-fb9": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/voting/docs-a16": {
+  "/voting/fr/docs-398": {
     "__comp": "a7bd4aaa",
-    "__props": "596783df"
+    "__props": "1a7cc82e"
   },
-  "/voting/docs-5b1": {
+  "/voting/fr/docs-34e": {
     "__comp": "a94703ab"
   },
-  "/voting/docs/category/tutorial---basics-cef": {
-    "__comp": "14eb3368",
-    "__props": "f6cee9b5"
+  "/voting/fr/docs/blueprint-docs/voting-legitimacy-c2d": {
+    "__comp": "17896441",
+    "content": "ed554acc"
   },
-  "/voting/docs/category/tutorial---extras-d8d": {
+  "/voting/fr/docs/category/blueprint---docs-4f0": {
     "__comp": "14eb3368",
-    "__props": "9a0a7a86"
+    "__props": "464f5f3b"
   },
-  "/voting/docs/intro-c24": {
+  "/voting/fr/docs/intro-f2c": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/voting/docs/tutorial-basics/congratulations-9b1": {
-    "__comp": "17896441",
-    "content": "822bd8ab"
-  },
-  "/voting/docs/tutorial-basics/create-a-blog-post-3f0": {
-    "__comp": "17896441",
-    "content": "533a09ca"
-  },
-  "/voting/docs/tutorial-basics/create-a-document-0ff": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
-  },
-  "/voting/docs/tutorial-basics/create-a-page-020": {
-    "__comp": "17896441",
-    "content": "5c868d36"
-  },
-  "/voting/docs/tutorial-basics/deploy-your-site-97a": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
-  },
-  "/voting/docs/tutorial-basics/markdown-features-0ba": {
-    "__comp": "17896441",
-    "content": "18c41134"
-  },
-  "/voting/docs/tutorial-extras/manage-docs-versions-48e": {
-    "__comp": "17896441",
-    "content": "dff1c289"
-  },
-  "/voting/docs/tutorial-extras/translate-your-site-243": {
-    "__comp": "17896441",
-    "content": "e44a2883"
-  },
-  "/voting/-95d": {
+  "/voting/fr/-6d1": {
     "__comp": "1df93b7f",
     "__context": {
       "plugin": "a7456010"

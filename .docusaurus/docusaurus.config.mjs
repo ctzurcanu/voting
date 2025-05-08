@@ -5,10 +5,10 @@
  */
 export default {
   "title": "voting",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "Voting as a Process",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/voting/",
+  "url": "https://ctzurcanu.github.io",
+  "baseUrl": "/voting/fr/",
   "organizationName": "ctzurcanu",
   "projectName": "voting",
   "onBrokenLinks": "throw",
@@ -16,7 +16,8 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "fr"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -62,7 +63,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Blueprint"
         },
         {
           "to": "/blog",
@@ -73,6 +74,12 @@ export default {
           "href": "https://github.com/ctzurcanu/voting",
           "label": "GitHub",
           "position": "right"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false
@@ -84,7 +91,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Blueprint",
               "to": "/docs/intro"
             }
           ]
@@ -92,10 +99,6 @@ export default {
         {
           "title": "Community",
           "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
             {
               "label": "Discord",
               "href": "https://discordapp.com/invite/docusaurus"
@@ -120,7 +123,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 The Laurel Project."
     },
     "prism": {
       "theme": {

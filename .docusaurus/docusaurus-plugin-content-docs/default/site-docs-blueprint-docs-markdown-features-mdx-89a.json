@@ -1,0 +1,23 @@
+{
+  "id": "blueprint-docs/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/blueprint-docs/markdown-features.mdx",
+  "sourceDirName": "blueprint-docs",
+  "slug": "/blueprint-docs/markdown-features",
+  "permalink": "/voting/docs/blueprint-docs/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/voting/tree/main/docs/blueprint-docs/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/voting/docs/blueprint-docs/create-a-page"
+  }
+}

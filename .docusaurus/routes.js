@@ -3,155 +3,102 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/voting/blog',
-    component: ComponentCreator('/voting/blog', 'e70'),
+    path: '/voting/fr/blog',
+    component: ComponentCreator('/voting/fr/blog', '821'),
     exact: true
   },
   {
-    path: '/voting/blog/archive',
-    component: ComponentCreator('/voting/blog/archive', '15a'),
+    path: '/voting/fr/blog/archive',
+    component: ComponentCreator('/voting/fr/blog/archive', 'fb8'),
     exact: true
   },
   {
-    path: '/voting/blog/authors',
-    component: ComponentCreator('/voting/blog/authors', '74b'),
+    path: '/voting/fr/blog/authors',
+    component: ComponentCreator('/voting/fr/blog/authors', '415'),
     exact: true
   },
   {
-    path: '/voting/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/voting/blog/authors/all-sebastien-lorber-articles', '54d'),
+    path: '/voting/fr/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/voting/fr/blog/authors/all-sebastien-lorber-articles', '2eb'),
     exact: true
   },
   {
-    path: '/voting/blog/authors/yangshun',
-    component: ComponentCreator('/voting/blog/authors/yangshun', 'f58'),
+    path: '/voting/fr/blog/authors/ctzurcanu',
+    component: ComponentCreator('/voting/fr/blog/authors/ctzurcanu', '3b8'),
     exact: true
   },
   {
-    path: '/voting/blog/first-blog-post',
-    component: ComponentCreator('/voting/blog/first-blog-post', '9a4'),
+    path: '/voting/fr/blog/first-blog-post',
+    component: ComponentCreator('/voting/fr/blog/first-blog-post', 'f62'),
     exact: true
   },
   {
-    path: '/voting/blog/long-blog-post',
-    component: ComponentCreator('/voting/blog/long-blog-post', '0f5'),
+    path: '/voting/fr/blog/mdx-blog-post',
+    component: ComponentCreator('/voting/fr/blog/mdx-blog-post', 'aa4'),
     exact: true
   },
   {
-    path: '/voting/blog/mdx-blog-post',
-    component: ComponentCreator('/voting/blog/mdx-blog-post', '0b1'),
+    path: '/voting/fr/blog/second-blog-post',
+    component: ComponentCreator('/voting/fr/blog/second-blog-post', '0e9'),
     exact: true
   },
   {
-    path: '/voting/blog/tags',
-    component: ComponentCreator('/voting/blog/tags', '6c5'),
+    path: '/voting/fr/blog/tags',
+    component: ComponentCreator('/voting/fr/blog/tags', '02b'),
     exact: true
   },
   {
-    path: '/voting/blog/tags/docusaurus',
-    component: ComponentCreator('/voting/blog/tags/docusaurus', '0c1'),
+    path: '/voting/fr/blog/tags/blog',
+    component: ComponentCreator('/voting/fr/blog/tags/blog', 'c5b'),
     exact: true
   },
   {
-    path: '/voting/blog/tags/facebook',
-    component: ComponentCreator('/voting/blog/tags/facebook', '05f'),
+    path: '/voting/fr/blog/tags/general',
+    component: ComponentCreator('/voting/fr/blog/tags/general', 'a11'),
     exact: true
   },
   {
-    path: '/voting/blog/tags/hello',
-    component: ComponentCreator('/voting/blog/tags/hello', '114'),
+    path: '/voting/fr/blog/tags/voting',
+    component: ComponentCreator('/voting/fr/blog/tags/voting', '3b4'),
     exact: true
   },
   {
-    path: '/voting/blog/tags/hola',
-    component: ComponentCreator('/voting/blog/tags/hola', 'f8e'),
+    path: '/voting/fr/blog/welcome',
+    component: ComponentCreator('/voting/fr/blog/welcome', 'a7a'),
     exact: true
   },
   {
-    path: '/voting/blog/welcome',
-    component: ComponentCreator('/voting/blog/welcome', '088'),
+    path: '/voting/fr/markdown-page',
+    component: ComponentCreator('/voting/fr/markdown-page', '773'),
     exact: true
   },
   {
-    path: '/voting/markdown-page',
-    component: ComponentCreator('/voting/markdown-page', '981'),
-    exact: true
-  },
-  {
-    path: '/voting/docs',
-    component: ComponentCreator('/voting/docs', 'fe8'),
+    path: '/voting/fr/docs',
+    component: ComponentCreator('/voting/fr/docs', 'fb9'),
     routes: [
       {
-        path: '/voting/docs',
-        component: ComponentCreator('/voting/docs', 'a16'),
+        path: '/voting/fr/docs',
+        component: ComponentCreator('/voting/fr/docs', '398'),
         routes: [
           {
-            path: '/voting/docs',
-            component: ComponentCreator('/voting/docs', '5b1'),
+            path: '/voting/fr/docs',
+            component: ComponentCreator('/voting/fr/docs', '34e'),
             routes: [
               {
-                path: '/voting/docs/category/tutorial---basics',
-                component: ComponentCreator('/voting/docs/category/tutorial---basics', 'cef'),
+                path: '/voting/fr/docs/blueprint-docs/voting-legitimacy',
+                component: ComponentCreator('/voting/fr/docs/blueprint-docs/voting-legitimacy', 'c2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/voting/docs/category/tutorial---extras',
-                component: ComponentCreator('/voting/docs/category/tutorial---extras', 'd8d'),
+                path: '/voting/fr/docs/category/blueprint---docs',
+                component: ComponentCreator('/voting/fr/docs/category/blueprint---docs', '4f0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/voting/docs/intro',
-                component: ComponentCreator('/voting/docs/intro', 'c24'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/voting/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/voting/docs/tutorial-basics/congratulations', '9b1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/voting/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/voting/docs/tutorial-basics/create-a-blog-post', '3f0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/voting/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/voting/docs/tutorial-basics/create-a-document', '0ff'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/voting/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/voting/docs/tutorial-basics/create-a-page', '020'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/voting/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/voting/docs/tutorial-basics/deploy-your-site', '97a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/voting/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/voting/docs/tutorial-basics/markdown-features', '0ba'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/voting/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/voting/docs/tutorial-extras/manage-docs-versions', '48e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/voting/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/voting/docs/tutorial-extras/translate-your-site', '243'),
+                path: '/voting/fr/docs/intro',
+                component: ComponentCreator('/voting/fr/docs/intro', 'f2c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -162,8 +109,8 @@ export default [
     ]
   },
   {
-    path: '/voting/',
-    component: ComponentCreator('/voting/', '95d'),
+    path: '/voting/fr/',
+    component: ComponentCreator('/voting/fr/', '6d1'),
     exact: true
   },
   {

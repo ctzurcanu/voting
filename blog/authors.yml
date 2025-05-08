@@ -1,12 +1,12 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+ctzurcanu:
+  name: Christian Tzurcanu
+  title: Volunteer at The Laurel Project
+  url: https://github.com/ctzurcanu
+  image_url: https://github.com/ctzurcanu.png
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    x: ctzurcanu
+    github: ctzurcanu
 
 slorber:
   name: Sébastien Lorber

@@ -1,0 +1,54 @@
+{
+  "permalink": "/voting/fr/blog/first-blog-post",
+  "editUrl": "https://github.com/ctzurcanu/voting/tree/main/blog/2025-05-08-first-blog-post.md",
+  "source": "@site/blog/2025-05-08-first-blog-post.md",
+  "title": "First Blog Post",
+  "description": "This is the start of the blog.",
+  "date": "2025-05-08T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Blog",
+      "permalink": "/voting/fr/blog/tags/blog",
+      "description": "Blog descr"
+    },
+    {
+      "inline": false,
+      "label": "General",
+      "permalink": "/voting/fr/blog/tags/general",
+      "description": "General tag description"
+    }
+  ],
+  "readingTime": 0.035,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Christian Tzurcanu",
+      "title": "Volunteer at The Laurel Project",
+      "url": "https://github.com/ctzurcanu",
+      "page": {
+        "permalink": "/voting/fr/blog/authors/ctzurcanu"
+      },
+      "socials": {
+        "x": "https://x.com/ctzurcanu",
+        "github": "https://github.com/ctzurcanu"
+      },
+      "imageURL": "https://github.com/ctzurcanu.png",
+      "key": "ctzurcanu"
+    }
+  ],
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "First Blog Post",
+    "authors": "ctzurcanu",
+    "tags": [
+      "blog",
+      "general"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Second Blog Post",
+    "permalink": "/voting/fr/blog/second-blog-post"
+  }
+}

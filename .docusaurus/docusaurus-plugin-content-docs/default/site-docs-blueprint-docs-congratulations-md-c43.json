@@ -1,0 +1,23 @@
+{
+  "id": "blueprint-docs/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/blueprint-docs/congratulations.md",
+  "sourceDirName": "blueprint-docs",
+  "slug": "/blueprint-docs/congratulations",
+  "permalink": "/voting/docs/blueprint-docs/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/voting/tree/main/docs/blueprint-docs/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/voting/docs/blueprint-docs/deploy-your-site"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "blueprint-docs/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/blueprint-docs/deploy-your-site.md",
+  "sourceDirName": "blueprint-docs",
+  "slug": "/blueprint-docs/deploy-your-site",
+  "permalink": "/voting/docs/blueprint-docs/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ctzurcanu/voting/tree/main/docs/blueprint-docs/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/voting/docs/blueprint-docs/markdown-features"
+  }
+}
