@@ -1,5 +1,5 @@
 {
-  "permalink": "/voting/fr/blog/second-blog-post",
+  "permalink": "/voting/blog/second-blog-post",
   "editUrl": "https://github.com/ctzurcanu/voting/tree/main/blog/2025-05-08-second-blog-post.md",
   "source": "@site/blog/2025-05-08-second-blog-post.md",
   "title": "Second Blog Post",
@@ -9,13 +9,13 @@
     {
       "inline": false,
       "label": "General",
-      "permalink": "/voting/fr/blog/tags/general",
+      "permalink": "/voting/blog/tags/general",
       "description": "General tag description"
     },
     {
       "inline": false,
       "label": "Voting",
-      "permalink": "/voting/fr/blog/tags/voting",
+      "permalink": "/voting/blog/tags/voting",
       "description": "Voting descr"
     }
   ],
@@ -27,7 +27,7 @@
       "title": "Volunteer at The Laurel Project",
       "url": "https://github.com/ctzurcanu",
       "page": {
-        "permalink": "/voting/fr/blog/authors/ctzurcanu"
+        "permalink": "/voting/blog/authors/ctzurcanu"
       },
       "socials": {
         "x": "https://x.com/ctzurcanu",
@@ -49,10 +49,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "First Blog Post",
-    "permalink": "/voting/fr/blog/first-blog-post"
+    "permalink": "/voting/blog/first-blog-post"
   },
   "nextItem": {
     "title": "Welcome",
-    "permalink": "/voting/fr/blog/welcome"
+    "permalink": "/voting/blog/welcome"
   }
 }

@@ -1,218 +1,261 @@
 {
-  "/voting/fr/blog-821": {
-    "__comp": "a6aa9e1f",
+  "/voting/__docusaurus/debug-c28": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "71e92778"
-      },
-      {
-        "content": "b2ba7847"
-      },
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      }
-    ],
-    "__props": "4aa8e389"
-  },
-  "/voting/fr/blog/archive-fb8": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "__props": "c08f83d2"
-  },
-  "/voting/fr/blog/authors-415": {
-    "__comp": "621db11d",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "cf425942"
-  },
-  "/voting/fr/blog/authors/all-sebastien-lorber-articles-2eb": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [],
-    "sidebar": "814f3328",
-    "__props": "31e42165"
-  },
-  "/voting/fr/blog/authors/ctzurcanu-3b8": {
-    "__comp": "33fc5bb8",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "items": [
-      {
-        "content": "71e92778"
-      },
-      {
-        "content": "b2ba7847"
-      },
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      }
-    ],
-    "sidebar": "814f3328",
-    "__props": "ce3fb68c"
-  },
-  "/voting/fr/blog/first-blog-post-f62": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "64c6a722"
-  },
-  "/voting/fr/blog/mdx-blog-post-aa4": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "59362658"
-  },
-  "/voting/fr/blog/second-blog-post-0e9": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "eb234947"
-  },
-  "/voting/fr/blog/tags-02b": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "__props": "daeb11fb"
-  },
-  "/voting/fr/blog/tags/blog-c5b": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "71e92778"
-      },
-      {
-        "content": "7661071f"
-      },
-      {
-        "content": "f4f34a3a"
-      }
-    ],
-    "__props": "22fa4142"
-  },
-  "/voting/fr/blog/tags/general-a11": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "71e92778"
-      },
-      {
-        "content": "b2ba7847"
-      }
-    ],
-    "__props": "b40beef6"
-  },
-  "/voting/fr/blog/tags/voting-3b4": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "b2ba7847"
-      }
-    ],
-    "__props": "07e80875"
-  },
-  "/voting/fr/blog/welcome-a7a": {
-    "__comp": "ccc49370",
-    "__context": {
-      "data": {
-        "blogMetadata": "acecf23e"
-      },
-      "plugin": "36994c47"
-    },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
-  },
-  "/voting/fr/markdown-page-773": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "393be207"
-  },
-  "/voting/fr/docs-fb9": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---voting-docusaurus-debugb-38-e91"
     }
   },
-  "/voting/fr/docs-398": {
-    "__comp": "a7bd4aaa",
-    "__props": "1a7cc82e"
-  },
-  "/voting/fr/docs-34e": {
-    "__comp": "a94703ab"
-  },
-  "/voting/fr/docs/blueprint-docs/voting-legitimacy-c2d": {
-    "__comp": "17896441",
-    "content": "ed554acc"
-  },
-  "/voting/fr/docs/category/blueprint---docs-4f0": {
-    "__comp": "14eb3368",
-    "__props": "464f5f3b"
-  },
-  "/voting/fr/docs/intro-f2c": {
-    "__comp": "17896441",
-    "content": "0e384e19"
-  },
-  "/voting/fr/-6d1": {
-    "__comp": "1df93b7f",
+  "/voting/__docusaurus/debug/config-36e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---voting-docusaurus-debugb-38-e91"
+    }
+  },
+  "/voting/__docusaurus/debug/content-aa9": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---voting-docusaurus-debugb-38-e91"
     },
-    "config": "5e9f5e1a"
+    "__props": "__props---voting-docusaurus-debug-content-85-a-e8c"
+  },
+  "/voting/__docusaurus/debug/globalData-e2b": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---voting-docusaurus-debugb-38-e91"
+    }
+  },
+  "/voting/__docusaurus/debug/metadata-cc4": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---voting-docusaurus-debugb-38-e91"
+    }
+  },
+  "/voting/__docusaurus/debug/registry-1ba": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---voting-docusaurus-debugb-38-e91"
+    }
+  },
+  "/voting/__docusaurus/debug/routes-213": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---voting-docusaurus-debugb-38-e91"
+    }
+  },
+  "/voting/blog-3e5": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "items": [
+      {
+        "content": "content---voting-blog-71-e-b3c"
+      },
+      {
+        "content": "content---voting-blogb-2-b-419"
+      },
+      {
+        "content": "content---voting-blog-766-c77"
+      },
+      {
+        "content": "content---voting-blogf-4-f-be1"
+      }
+    ],
+    "__props": "__props---voting-blog-761-d64"
+  },
+  "/voting/blog/archive-15a": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "__props": "__props---voting-blog-archivec-58-347"
+  },
+  "/voting/blog/authors-74b": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---voting-blog-authorsace-b66"
+      },
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "__props": "__props---voting-blog-authors-23-b-108"
+  },
+  "/voting/blog/authors/all-sebastien-lorber-articles-2a2": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---voting-blog-authorsace-b66"
+      },
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "items": [],
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "__props": "__props---voting-blog-authors-all-sebastien-lorber-articles-0-d-8-c80"
+  },
+  "/voting/blog/authors/ctzurcanu-031": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---voting-blog-authorsace-b66"
+      },
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "items": [
+      {
+        "content": "content---voting-blog-71-e-b3c"
+      },
+      {
+        "content": "content---voting-blogb-2-b-419"
+      },
+      {
+        "content": "content---voting-blog-766-c77"
+      },
+      {
+        "content": "content---voting-blogf-4-f-be1"
+      }
+    ],
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "__props": "__props---voting-blog-authors-ctzurcanuc-48-27f"
+  },
+  "/voting/blog/first-blog-post-ab6": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---voting-blog-authorsace-b66"
+      },
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "content": "content---voting-blog-first-blog-post-64-c-dba"
+  },
+  "/voting/blog/mdx-blog-post-0b1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---voting-blog-authorsace-b66"
+      },
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "content": "content---voting-blog-mdx-blog-post-593-5ae"
+  },
+  "/voting/blog/second-blog-post-df2": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---voting-blog-authorsace-b66"
+      },
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "content": "content---voting-blog-second-blog-posteb-2-02a"
+  },
+  "/voting/blog/tags-6c5": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "__props": "__props---voting-blog-tagsb-5-b-5f0"
+  },
+  "/voting/blog/tags/blog-180": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "items": [
+      {
+        "content": "content---voting-blog-71-e-b3c"
+      },
+      {
+        "content": "content---voting-blog-766-c77"
+      },
+      {
+        "content": "content---voting-blogf-4-f-be1"
+      }
+    ],
+    "__props": "__props---voting-blog-tags-blog-66-b-fdc"
+  },
+  "/voting/blog/tags/general-55f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "items": [
+      {
+        "content": "content---voting-blog-71-e-b3c"
+      },
+      {
+        "content": "content---voting-blogb-2-b-419"
+      }
+    ],
+    "__props": "__props---voting-blog-tags-generalbd-4-200"
+  },
+  "/voting/blog/tags/voting-aa4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "items": [
+      {
+        "content": "content---voting-blogb-2-b-419"
+      }
+    ],
+    "__props": "__props---voting-blog-tags-votingfc-4-25e"
+  },
+  "/voting/blog/welcome-088": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---voting-blog-authorsace-b66"
+      },
+      "plugin": "plugin---voting-blog-369-df5"
+    },
+    "sidebar": "sidebar---voting-blog-814-af3",
+    "content": "content---voting-blog-welcomed-9-f-9f5"
+  },
+  "/voting/markdown-page-981": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---voting-markdown-pagea-74-43f"
+    },
+    "content": "content---voting-markdown-page-393-8d9"
+  },
+  "/voting/docs-eb0": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---voting-docsaba-6c5"
+    }
+  },
+  "/voting/docs-35e": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---voting-docs-596-37e"
+  },
+  "/voting/docs-d61": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/voting/docs/blueprint-docs/voting-legitimacy-696": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---voting-docs-blueprint-docs-voting-legitimacyed-5-ea1"
+  },
+  "/voting/docs/category/blueprint---docs-fe5": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---voting-docs-category-blueprint-docs-416-07a"
+  },
+  "/voting/docs/intro-c24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---voting-docs-intro-0-e-3-80b"
+  },
+  "/voting/-95d": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---voting-markdown-pagea-74-43f"
+    },
+    "config": "config---voting-5-e-9-3ab"
   }
 }

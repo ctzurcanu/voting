@@ -8,7 +8,7 @@ export default {
   "tagline": "Voting as a Process",
   "favicon": "img/favicon.ico",
   "url": "https://ctzurcanu.github.io",
-  "baseUrl": "/voting/fr/",
+  "baseUrl": "/voting/",
   "organizationName": "ctzurcanu",
   "projectName": "voting",
   "onBrokenLinks": "throw",

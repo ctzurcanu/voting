@@ -5,7 +5,7 @@
   "source": "@site/docs/blueprint-docs/voting-legitimacy.md",
   "sourceDirName": "blueprint-docs",
   "slug": "/blueprint-docs/voting-legitimacy",
-  "permalink": "/voting/fr/docs/blueprint-docs/voting-legitimacy",
+  "permalink": "/voting/docs/blueprint-docs/voting-legitimacy",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/ctzurcanu/voting/tree/main/docs/blueprint-docs/voting-legitimacy.md",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Blueprint - Docs",
-    "permalink": "/voting/fr/docs/category/blueprint---docs"
+    "permalink": "/voting/docs/category/blueprint---docs"
   }
 }

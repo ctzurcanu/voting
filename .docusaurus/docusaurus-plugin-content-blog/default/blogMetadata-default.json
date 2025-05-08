@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/voting/fr/blog",
+  "blogBasePath": "/voting/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/voting/fr/blog/authors"
+  "authorsListPath": "/voting/blog/authors"
 }

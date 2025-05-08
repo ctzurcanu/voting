@@ -1,5 +1,5 @@
 {
-  "permalink": "/voting/fr/blog/mdx-blog-post",
+  "permalink": "/voting/blog/mdx-blog-post",
   "editUrl": "https://github.com/ctzurcanu/voting/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
@@ -9,7 +9,7 @@
     {
       "inline": false,
       "label": "Blog",
-      "permalink": "/voting/fr/blog/tags/blog",
+      "permalink": "/voting/blog/tags/blog",
       "description": "Blog descr"
     }
   ],
@@ -21,7 +21,7 @@
       "title": "Volunteer at The Laurel Project",
       "url": "https://github.com/ctzurcanu",
       "page": {
-        "permalink": "/voting/fr/blog/authors/ctzurcanu"
+        "permalink": "/voting/blog/authors/ctzurcanu"
       },
       "socials": {
         "x": "https://x.com/ctzurcanu",
@@ -44,6 +44,6 @@
   "unlisted": false,
   "prevItem": {
     "title": "Welcome",
-    "permalink": "/voting/fr/blog/welcome"
+    "permalink": "/voting/blog/welcome"
   }
 }

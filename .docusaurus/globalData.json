@@ -1,28 +1,28 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/voting/fr/docs",
+      "path": "/voting/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/voting/fr/docs",
+          "path": "/voting/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "blueprint-docs/voting-legitimacy",
-              "path": "/voting/fr/docs/blueprint-docs/voting-legitimacy",
+              "path": "/voting/docs/blueprint-docs/voting-legitimacy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/voting/fr/docs/intro",
+              "path": "/voting/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/blueprint---docs",
-              "path": "/voting/fr/docs/category/blueprint---docs",
+              "path": "/voting/docs/category/blueprint---docs",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -30,7 +30,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/voting/fr/docs/intro",
+                "path": "/voting/docs/intro",
                 "label": "intro"
               }
             }
